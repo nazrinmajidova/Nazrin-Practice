@@ -1,0 +1,14 @@
+D:\Back-End\ArrayFunctions\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.exe
+D:\Back-End\ArrayFunctions\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.deps.json
+D:\Back-End\ArrayFunctions\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.runtimeconfig.json
+D:\Back-End\ArrayFunctions\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.dll
+D:\Back-End\ArrayFunctions\ArrayFunctions\bin\Debug\net8.0\ArrayFunctions.pdb
+D:\Back-End\ArrayFunctions\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\ArrayFunctions\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.AssemblyInfoInputs.cache
+D:\Back-End\ArrayFunctions\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.AssemblyInfo.cs
+D:\Back-End\ArrayFunctions\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.csproj.CoreCompileInputs.cache
+D:\Back-End\ArrayFunctions\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.dll
+D:\Back-End\ArrayFunctions\ArrayFunctions\obj\Debug\net8.0\refint\ArrayFunctions.dll
+D:\Back-End\ArrayFunctions\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.pdb
+D:\Back-End\ArrayFunctions\ArrayFunctions\obj\Debug\net8.0\ArrayFunctions.genruntimeconfig.cache
+D:\Back-End\ArrayFunctions\ArrayFunctions\obj\Debug\net8.0\ref\ArrayFunctions.dll
