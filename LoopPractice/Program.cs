@@ -1,12 +1,19 @@
-﻿namespace LoopPractice
+﻿using System.Security.Cryptography;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace LoopPractice
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Task3();
-            Task2();
-            Task1();
+            /*  Task3();
+                Task2();
+                Task1();
+                Task4(); 
+                Task7();
+             */
+            ForEach();
 
         }
 
@@ -68,6 +75,52 @@
             Console.WriteLine(odd);
         }
 
-       
+        public static void Task4()
+        {
+            int value = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i< value; i++)
+            {
+                for (int j = 0;  j< value; j++)
+                {
+                    Console.Write("X");
+                }
+
+                Console.WriteLine();    
+            }
+        }
+
+       public static void Task7()
+        {
+            for (int i = 0; i <= 10; i++)
+            {
+                for (int j = 1; j <= 10; j++)
+                {
+                   Console.WriteLine("{0}x{1} = {2}", j, i, i * j); 
+
+                }
+                Console.WriteLine(new string('-', 10));
+                Console.Write("\n");
+            }
+       }
+
+        public static void Task6()
+        {
+            int value2 = Convert.ToInt32(Console.ReadLine());
+
+            
+        }
+
+        public static void ForEach()
+        {
+            int[] array = { 3, 7, 6, 12, 24, 76, 98, 43, 11 };
+            int count = 0;
+            foreach (int nums in array)
+            {
+                if (nums % 2 == 0 && nums % 3 == 0) count++;
+                
+            }
+            Console.WriteLine(count);
+        }
     }
 }
